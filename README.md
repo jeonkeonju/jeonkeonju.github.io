@@ -1,2 +1,0 @@
-# jeonkeonju.github.io
-portfolio
